@@ -1,0 +1,10 @@
+digest: dc6ad167
+name: dataset
+profile: '{"features_shape": [4, 2], "features_size": 8, "features_nbytes": 64, "targets_shape":
+  [4], "targets_size": 4, "targets_nbytes": 32}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"int64\", \"shape\": [-1, 2]}}]", "targets": "[{\"type\": \"tensor\",
+  \"tensor-spec\": {\"dtype\": \"int64\", \"shape\": [-1]}}]"}}'
+source: '{"tags": {"mlflow.user": "jacob", "mlflow.source.name": "ml_example.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

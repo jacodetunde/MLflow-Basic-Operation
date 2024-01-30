@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jacob/Desktop/AWS/Data_Engineering/ML_Engineering/mlflow_example/mlruns/0/dc427d773060462d9392f574ea75a843/artifacts
+end_time: 1706586080631
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dc427d773060462d9392f574ea75a843
+run_name: intrigued-stork-878
+run_uuid: dc427d773060462d9392f574ea75a843
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706586076870
+status: 3
+tags: []
+user_id: jacob
